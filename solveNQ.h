@@ -1,6 +1,6 @@
 #include <iostream>
+#include<cstdlib>
 #include <cstdio>
-#include <cstdlib>
 #define N 4
 using namespace std;
-void print(int board[N][N]);
+bool solveNQ();
