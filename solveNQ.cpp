@@ -1,3 +1,7 @@
+#include "SolveNQ.h"
+#include "print.h"
+#include "solveNQUtil.h"
+
 bool solveNQ()
 {
    int board[N][N] = {0};
